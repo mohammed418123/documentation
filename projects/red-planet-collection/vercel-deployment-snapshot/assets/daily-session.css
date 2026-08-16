@@ -1,0 +1,4 @@
+.batch-header > .alert {
+  grid-column: 1 / -1;
+  margin: 0;
+}
